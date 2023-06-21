@@ -1,0 +1,20 @@
+import React from "react";
+import Topbar from ".";
+
+/*****************************************************************************/
+// Documentation
+
+export default {
+  title: "Components/Topbar",
+  component: Topbar,
+};
+
+/*****************************************************************************/
+// Template
+
+const Template = (args) => <Topbar {...args} />;
+
+/*****************************************************************************/
+// Variants
+
+export const Default = Template.bind({});

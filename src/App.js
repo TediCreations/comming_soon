@@ -28,7 +28,7 @@ function App() {
             <Spinner size="75" />
             <br />
             <br />
-            <h3 style={styleObj}>Leniko is on a short break...</h3>
+            <h3 style={styleObj}>We are on a short break...</h3>
             <br />
             <br />
             <br />
